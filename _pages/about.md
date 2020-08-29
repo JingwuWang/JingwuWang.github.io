@@ -10,9 +10,9 @@ redirect_from:
 
 Biography
 ------
-My name is Jingwu Wang(王景午). I am a master student in the department of computer science, Nanjing Univerisity. I am supervised by associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/Students.htm). I am interested in Optimization problems in UAV Networks and Wireless Sensor Networks.
+My name is Jingwu Wang (王景午). I am a master student in the department of computer science, Nanjing Univerisity. I am supervised by associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/Students.htm). I am interested in Optimization problems in UAV Networks and Wireless Sensor Networks.
 
 Research Interests
 ------
-*UAV Networks*
-*Machine Learning*
+* UAV Networks
+* Machine Learning
