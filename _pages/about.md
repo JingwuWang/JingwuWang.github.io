@@ -14,5 +14,5 @@ My name is Jingwu Wang(王景午). I am a master student in the department of co
 
 Research Interests
 ------
-*UAV Networks
-*Machine Learning
+*UAV Networks*
+*Machine Learning*
