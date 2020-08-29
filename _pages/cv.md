@@ -12,7 +12,7 @@ redirect_from:
 Education
 -----
 * B.S. in Kuang Yaming Honors School, Nanjing University, 2016-2020
-* M.S. in Department of Computer Science and Technology, Nanjing University, 2020
+* M.S. in Department of Computer Science and Technology, Nanjing University, 2020-current
 
 Publications
 -----
